@@ -12,32 +12,36 @@
 <p>💬 Ask me about <b>Python 🐍 </b></p>
 <p>📫 How to reach me <b>https://t.me/TheAwiteb</b></p>
 
-<h3>Donating</h3>
+<h2 id="donating-bep20">Donating (BEP20)</h2>
 <table>
-    <thead>
-        <tr>
-            <th>Currency</th>
-            <th>Address</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Ethereum <strong>ETH</strong></td>
-            <td><code>0xdFb0E92827E71DdF48a3a57D1fc647DfFe1383B7</code></td>
-        </tr>
-        <tr>
-            <td>Binance USD <strong>BUSD</strong></td>
-            <td><code>0xdFb0E92827E71DdF48a3a57D1fc647DfFe1383B7</code></td>
-        </tr>
-        <tr>
-            <td>Bitcoin <strong>BTC</strong></td>
-            <td><code>1FUf2Gtto4TBJtZ7g1Au45VS8TwHpWxGSV</code></td>
-        </tr>
-        <tr>
-            <td>Bitcoin Cash <strong>BCH</strong></td>
-            <td><code>bitcoincash:qzsnd7ds5a4mkxl7nx000cw347jxfzardv0zhazhkw</code></td>
-        </tr>
-    </tbody>
+   <thead>
+      <tr>
+         <th>Currency</th>
+         <th>Address</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>Binance <strong>BNB</strong></td>
+         <td>0x009987919CfeA8dF54F69436E5d7202B3e3430eE</td>
+      </tr>
+      <tr>
+         <td>Binance USD <strong>BUSD</strong></td>
+         <td>0x009987919CfeA8dF54F69436E5d7202B3e3430eE</td>
+      </tr>
+      <tr>
+         <td>Tether <strong>USDT</strong></td>
+         <td>0x009987919CfeA8dF54F69436E5d7202B3e3430eE</td>
+      </tr>
+      <tr>
+         <td>Bitcoin <strong>BTC</strong></td>
+         <td>0x009987919CfeA8dF54F69436E5d7202B3e3430eE</td>
+      </tr>
+      <tr>
+         <td>Bitcoin Cash <strong>BCH</strong></td>
+         <td>0x009987919CfeA8dF54F69436E5d7202B3e3430eE</td>
+      </tr>
+   </tbody>
 </table>
 
 <h3>Languages and Tools:</h3>
