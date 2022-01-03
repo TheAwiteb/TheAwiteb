@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<p>👨‍💻 I’m currently working on <b>Secret 👀</b></p>
+<p>👨‍💻 I’m currently working on <b>Secret project 👀</b></p>
 <p>🌱 I’m currently learning <b>Rust 🦀 </b></p>
 <p>💬 Ask me about <b>Python 🐍 </b></p>
 <p>📫 How to reach me <b>https://t.me/TheAwiteb</b></p>
