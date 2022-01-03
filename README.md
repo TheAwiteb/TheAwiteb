@@ -23,13 +23,17 @@
 <br><br>
 
 
-<a href="https://github.com/TheAwiteb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theawiteb&layout=compact&theme=cobalt&hide_border=true" />
-</a>
+<h2 align='center'>Completed <a href='https://Satr.codes'>Satr</a> courses</h2>
 
-<br><br>
+<div align='center'><a href='https://satr.codes/courses/MxhtosVATL/view'><img align='center' alt='JavaScript 101' src='https://assets.safcsp.cloud/badges/badges-44.png' width='150' height='150'/></a>
+<a href='https://satr.codes/courses/lnCDammOOq/view'><img align='center' alt='JavaScript 102' src='https://assets.safcsp.cloud/badges/badges-44.png' width='150' height='150'/></a>
+<a href='https://satr.codes/courses/rRUQyVDkwQ/view'><img align='center' alt='Python 101' src='https://assets.safcsp.cloud/badges/badges-45.png' width='150' height='150'/></a>
+<a href='https://satr.codes/courses/VIvMvhyCiV/view'><img align='center' alt='Python 102' src='https://assets.safcsp.cloud/badges/badges-45.png' width='150' height='150'/></a>
+<a href='https://satr.codes/courses/MvNhowmHeB/view'><img align='center' alt='Python 103' src='https://assets.safcsp.cloud/badges/badges-45.png' width='150' height='150'/></a>
+<a href='https://satr.codes/courses/CATspNvVjT/view'><img align='center' alt='HTML' src='https://assets.safcsp.cloud/badges/badges-54.png' width='150' height='150'/></a>
+<a href='https://satr.codes/courses/hNUwyBUKmF/view'><img align='center' alt='CSS' src='https://assets.safcsp.cloud/badges/badges-53.png' width='150' height='150'/></a>
 
-Profile created by [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+</div>
 
 
 
