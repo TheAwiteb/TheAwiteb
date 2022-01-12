@@ -10,7 +10,7 @@
 <p>👨‍💻 I’m currently working on <b>Secret project 👀</b></p>
 <p>🌱 I’m currently learning <b>Rust 🦀 </b></p>
 <p>💬 Ask me about <b>Python 🐍 </b></p>
-<p>📫 How to reach me <b>https://t.me/TheAwiteb</b></p>
+<p>📫 How to reach me </a><a href="https://t.me/TheAwiteb"><img src="https://img.icons8.com/nolan/30/telegram-app.png"/></a> <a href="https://twitter.com/Awiteb"><img src="https://img.icons8.com/nolan/30/twitter.png"/></p>
 
 <h2 id="donating-bep20">Donating (BEP20)</h2>
 <table>
@@ -64,3 +64,4 @@
 
 
 
+<br> <a href="https://icons8.com/icon/">Telegram and Twitter icons by Icons8</a> <br>
