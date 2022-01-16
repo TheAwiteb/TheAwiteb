@@ -23,23 +23,23 @@
    <tbody>
       <tr>
          <td>Binance <strong>BNB</strong></td>
-         <td>0x009987919CfeA8dF54F69436E5d7202B3e3430eE</td>
+         <td>0x4ab0974c7dfcdcdf24d8323a93b061d41e9cf3f0</td>
       </tr>
       <tr>
          <td>Binance USD <strong>BUSD</strong></td>
-         <td>0x009987919CfeA8dF54F69436E5d7202B3e3430eE</td>
+         <td>0x4ab0974c7dfcdcdf24d8323a93b061d41e9cf3f0</td>
       </tr>
       <tr>
          <td>Tether <strong>USDT</strong></td>
-         <td>0x009987919CfeA8dF54F69436E5d7202B3e3430eE</td>
+         <td>0x4ab0974c7dfcdcdf24d8323a93b061d41e9cf3f0</td>
       </tr>
       <tr>
          <td>Bitcoin <strong>BTC</strong></td>
-         <td>0x009987919CfeA8dF54F69436E5d7202B3e3430eE</td>
+         <td>0x4ab0974c7dfcdcdf24d8323a93b061d41e9cf3f0</td>
       </tr>
       <tr>
          <td>Bitcoin Cash <strong>BCH</strong></td>
-         <td>0x009987919CfeA8dF54F69436E5d7202B3e3430eE</td>
+         <td>0x4ab0974c7dfcdcdf24d8323a93b061d41e9cf3f0</td>
       </tr>
    </tbody>
 </table>
