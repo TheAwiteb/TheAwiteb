@@ -84,4 +84,4 @@
 </a>    
 </div>
 
-<br> <a href="https://icons8.com/icon/">Telegram and Twitter icons by Icons8</a> <br>
+<br> <a href="https://icons8.com/">Telegram and Twitter icons by Icons8</a> <br>
