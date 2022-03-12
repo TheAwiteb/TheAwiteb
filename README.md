@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<p>👨‍💻 I’m currently working on <b>Secret project 👀</b></p>
+<p>👨‍💻 I’m currently playground with <b>Rust 🦀</b></p>
 <p>🌱 I’m currently learning <b>Rust 🦀 </b></p>
 <p>💬 Ask me about <b>Python 🐍 </b></p>
 <p>📫 How to reach me </a><a href="https://t.me/TheAwiteb"><img src="https://img.icons8.com/nolan/30/telegram-app.png"/></a> <a href="https://twitter.com/Awiteb"><img src="https://img.icons8.com/nolan/30/twitter.png"/></p>
