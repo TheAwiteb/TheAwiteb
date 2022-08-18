@@ -30,7 +30,7 @@
 </div>
 <br>
 
-<h2 align='center'>Completed <a href='https://Satr.codes'>Satr</a> courses</h2>
+<h2 align='center'>Completed <a href='https://profile.satr.codes/user/theawiteb'>Satr</a> courses</h2>
 
 <div align='center'><a target='_blank' href='https://satr.codes/courses/MxhtosVATL/view'>
     <img align='center' alt='JavaScript 101' src='https://assets.safcsp.cloud/badges/badges-44.png' width='90.0' height='90.0'/>
