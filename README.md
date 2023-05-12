@@ -15,8 +15,8 @@
 [![github-sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&logoColor=ff69b4)](https://github.com/sponsors/TheAwiteb)
 
 
-<p>👨‍💻 I’m currently playground with <b>Rust 🦀</b></p>
-<p>🌱 I’m currently learning <b>Actix 🕸️</b></p>
+<p>👨‍💻 I’m currently playground with <b>Unity 🎮</b></p>
+<p>🌱 I’m currently learning <b>Game dev</b></p>
 <p>💬 Ask me about <b>Python 🐍 </b> and <b>Rust 🦀 </b></p>
 
 ## Donating
