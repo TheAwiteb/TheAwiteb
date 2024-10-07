@@ -12,7 +12,7 @@
 
 
 
-[![Fediverse](https://shields.io/badge/Fediverse-@me@bassam.social-blue?logo=https://blog.bassam.social/wp-content/uploads/2023/06/cropped-favicon-192x192.png&style=flat)](https://bassam.social/@me) 
+[![Matrix](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@awiteb:4rs.nl)
 [![Telegram](https://shields.io/badge/Telegram-TheAwiteb-blue?style=flat)](https://t.me/TheAwiteb)
 <br>
 [![github-sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&logoColor=ff69b4)](https://github.com/sponsors/TheAwiteb)
