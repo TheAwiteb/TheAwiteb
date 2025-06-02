@@ -3,7 +3,7 @@
 </a>
 
 > [!IMPORTANT]
-> I moved to https://git.4rs.nl (personal Forgejo instance)
+> I moved to https://git.4rs.nl (personal Git instance)
 
 <h1 align="center">Hi 👋, I'm Awiteb</h1>
 
