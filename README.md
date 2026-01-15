@@ -19,7 +19,8 @@
 ## Donating
 | Currency                  |                Address                          |
 |---------------------------|------------------------------------------------ |
+| Monero **XMR**            | `842PfDv59Z9aMk9ZTfGZwDKJGoJcSSCgoU3tdL9VpsWr1KudSu7cdNjfYtrQiJjuuaWHAEnq4cHgGLWUQKxzSgESD4CVHvr`|
 | Solana **SOL**            | `AxLx5ynVTMkxwVJyNz77S4ZXLMToCjrTFtYkYGjfwQyJ`|
 | Ethereum **ETH**          | `0xD89c146B03B72191be91064D313610981dCAF6d4`|
 | Bitcoin **BTC**           | `bc1q0ltmqmsc4qs740ssyf9k9jq99nwxtqu8aupmdj`|
-| Bitcoin Cash **BCH**      | `qrpm6zyte3d4z2u9r24l04m3havc2wd9vgqlz8sjgr`|>
+| Bitcoin Cash **BCH**      | `qrpm6zyte3d4z2u9r24l04m3havc2wd9vgqlz8sjgr`|
