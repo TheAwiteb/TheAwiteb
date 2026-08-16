@@ -1,6 +1,8 @@
-<a href="https://github.com/TheAwiteb">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=theawiteb&label=Profile%20views&color=blueviolet&style=flat" alt="theawiteb" /> </p>
-</a>
+4F0E 0686 B1C8 50BA F9ED 9FDF 3F6B 5564 0AA6 682F
+
+npub1qqqqqq2stely3ynsgm5mh2nj3v0nk5gjyl3zqrzh34hxhvx806usxmln03
+
+---
 
 > [!IMPORTANT]
 > I moved to https://git.4rs.nl (personal Git instance)
@@ -12,8 +14,6 @@
 
 
 [![Matrix](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@awiteb:4rs.nl)
-[![Telegram](https://shields.io/badge/Telegram-TheAwiteb-blue?style=flat)](https://t.me/TheAwiteb)
-<br>
 [![github-sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&logoColor=ff69b4)](https://github.com/sponsors/TheAwiteb)
 
 ## Donating
